@@ -1,4 +1,4 @@
-# FastApi Technical Analysys for Shares
+# Technical analysis for Shares
 
 to use it:
 
